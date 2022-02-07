@@ -1,0 +1,3 @@
+[submodule "forsubmodule"]
+	path = forsubmodule
+	url = git@github.com:up0pt/forsubmodule.git
